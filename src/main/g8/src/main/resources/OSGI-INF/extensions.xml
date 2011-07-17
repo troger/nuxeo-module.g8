@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<component name="$module_bundle_symbolic_name$">
+
+  <!-- put your extensions here -->
+
+  <!--
+  <extension target="org.nuxeo.ecm.core.schema.TypeService"
+    point="schema">
+
+    <schema name="my_schema" src="schemas/my_schema.xsd"
+      prefix="myschema" />
+
+  </extension>
+  -->
+
+</component>
+
